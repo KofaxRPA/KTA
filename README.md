@@ -18,7 +18,7 @@ KTA can run robots both synchronously (wait until robot finishes) or asynchronou
 * robots should be fast and be finished in less than 30 seconds.
 ### Asynchronous Robots
 This is for robots that run "independently" of KTA or robots that take too long to run, that KTA cannot or should not wait for results.
-* Kofax RPA supports adding [robot queuing](https://github.com/KofaxRPA/RPA-11.1/blob/main/RobotQueueing.md#robot-queueing-in-kofax-rpa) via REST. This mechanism returns a token, with which KTA can monitor the process of the robotand retrieve the results of a robot when it has finished.
+* Kofax RPA supports [robot queuing](https://github.com/KofaxRPA/RPA-11.1/blob/main/RobotQueueing.md#robot-queueing-in-kofax-rpa) via REST. This mechanism returns a token, with which KTA can monitor the process of the robotand retrieve the results of a robot when it has finished.
 
 ## Controlling KTA from within RPA
 RPA can [control KTA](https://docshield.kofax.com/RPA/en_US/11.3.0_5cdzhlgb3t/help/rpa_help/help_main/designstudio/c_das_ktastep.html) from within the robot, but this is not generally recommended from either Kofax nor from Partners who implement hybrid solutions, due to the superiority of KTA as an orchestration platform.  
