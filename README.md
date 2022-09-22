@@ -1,6 +1,6 @@
 # Kofax RPA for Total Agility
 
-Kofax is an **AI-drive, **data-intensive workflow** technology and cloud solution company** and it is Kofax RPA that empower KTA to be data-intensive. 
+Kofax is an **AI-drive, **data-intensive workflow** technology and cloud solution company** and it is Kofax RPA that empowers KTA to be data-intensive. 
 Kofax Total Agility is excellent at handling documents and data that is inside internal business systems and databases, but RPA is excellent at getting access to data inside Excel Documents, PDFs, web, cloud applications, desktop applications and green screen systems.  
 See [this video and presentation](https://kofax.app.bigtincan.com/lshare/w7GmZ6QAnXbepkDLzdJYEmMTPFwsLEN2j3l4a5oR10VOxvqP9y).
 ## Managing RPA from KTA
